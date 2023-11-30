@@ -3,7 +3,18 @@
     <a href="/index.html">English</a> |
     <span>日本語</span>
 </div>
-
+<div class="movielist">
+    <div class="movie">
+        <iframe src="https://youtu.be/gQPJPNwiiVI" frameborder="0" allowfullscreen></iframe>
+        <br/>
+        <span>目的紹介</span>
+    </div>
+    <div class="movie">
+        <iframe src="https://youtu.be/dJkiIFzXKfw" frameborder="0" allowfullscreen></iframe>
+        <br/>
+        <span>機能紹介</span>
+    </div>
+</div>
 ## プロジェクトの狙い
 
 - uroboros projectは、今までロボット導入ができていない分野にもロボット導入を促進することを目的とし、従来のロボット開発方法を革新する為に生まれました。uroboros projectが対象とするロボットは、自在にモノをハンドリングできるアームを備えたロボットです。任意のアームにエンドエフェクタ(ツールチェンジャ・ハンド)、センサ(カメラ・力覚センサ)、搬送装置(移動ロボット・スライダ・ベルトコンベア)を簡単に組み合わせてできる新しいロボット開発方法を提供します

@@ -3,6 +3,18 @@
     <span>English</span> |
     <a href="/ja/index.html">日本語</a>
 </div>
+<div class="movielist">
+    <div class="movie">
+        <iframe src="https://youtu.be/gQPJPNwiiVI" frameborder="0" allowfullscreen></iframe>
+        <br/>
+        <span>Purpose</span>
+    </div>
+    <div class="movie">
+        <iframe src="https://youtu.be/dJkiIFzXKfw" frameborder="0" allowfullscreen></iframe>
+        <br/>
+        <span>Functionality</span>
+    </div>
+</div>
 
 ## Goal
 
