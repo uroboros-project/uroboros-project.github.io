@@ -5,12 +5,12 @@
 </div>
 <div class="movielist">
     <div class="movie">
-        <iframe src="https://youtu.be/gQPJPNwiiVI" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/gQPJPNwiiVI?si=1CzPDr_riERUSOyu" frameborder="0" allowfullscreen></iframe>
         <br/>
         <span>Purpose</span>
     </div>
     <div class="movie">
-        <iframe src="https://youtu.be/dJkiIFzXKfw" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/dJkiIFzXKfw?si=0Pmjbr0Zijy2CnmC" frameborder="0" allowfullscreen></iframe>
         <br/>
         <span>Functionality</span>
     </div>
