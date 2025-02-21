@@ -55,11 +55,6 @@
   - System designs were drafted, and are being revised continuously based on feedback
   - Currently, software implementation and database creation is on-going
 
-## Release plan
-
-- 2024 spring: release design documents 
-- 2024 summer: release softwares as OSS(open source software)
-
 ## Project Member
 
 - Developers
