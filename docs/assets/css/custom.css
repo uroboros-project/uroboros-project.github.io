@@ -40,5 +40,5 @@
 }
 
 .project-tagline {
-  display: none;
+  display: none !important;
 }
