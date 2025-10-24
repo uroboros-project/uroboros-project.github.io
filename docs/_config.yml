@@ -1,7 +1,8 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: uroboros project
-description: Data-driven Robot framework on ROS2
+# title: uroboros project
+title: Data-driven Robot framework on ROS2
+# description: Data-driven Robot framework on ROS2
 include:
   - assets/css/custom.css
