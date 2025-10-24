@@ -3,6 +3,6 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 # title: uroboros project
 title: Data-driven Robot framework on ROS2
-description: Data-driven Robot framework on ROS2
+description: ""
 include:
   - assets/css/custom.css
