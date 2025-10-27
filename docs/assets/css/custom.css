@@ -7,8 +7,8 @@
   position: relative;
   background: linear-gradient(to bottom, #777777, #dddddd);
   color: #111;
-  padding: 0;  /* パディングをリセット */
-  height: 170px;  /* 固定高さ */
+  padding: 0;  
+  height: 375px;  
   overflow: hidden;
 }
 
@@ -16,11 +16,11 @@
 .page-header::after {
   content: '';
   position: absolute;
-  top: -40px;      
+  top: -220px;      
   left: 50%;     
   transform: translateX(-52%); 
-  width: 1000px;   
-  height: 250px; 
+  width: 1275px;   
+  height: 800px; 
   background-image: url('/logo/UROBOROS.png');
   background-size: contain;
   background-position: center;
@@ -30,11 +30,11 @@
 /* タイトル文字を固定位置に配置 */
 .project-name {
   color: #480FB5;
-  font-size: 0.8em;
+  font-size: 1.4em;
   position: absolute;
-  bottom: 20px;
+  bottom: 60px;
   left: 50%;
-  transform: translateX(-35%); 
+  transform: translateX(-32%); 
   margin: 0;
   z-index: 1;
 }

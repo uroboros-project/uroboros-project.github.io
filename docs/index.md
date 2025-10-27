@@ -17,7 +17,7 @@
     </div>
 </div>
 
-## Goal
+## Goal of UROBOROS project
 
 - Uroboros project was born to revolutionize the conventional robot development method, and aims to accelerate introducing robots into domains where use cases are rather complex for robots to work. We target robots equipped with arms that can freely handle objects and provide a new robot development method that allows you to easily combine any arm with end effectors(tool ​​changer, hand), sensors (camera, force sensor), and conveyance devices (mobile robot, slider, belt conveyor).
 - This project mainly aims to help the following people (see video for details)
